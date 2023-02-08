@@ -110,7 +110,7 @@ for h in buttons3:
                command=dict_cmd3[h]).grid(row=6, column=c3, padx=3)
 
 Button(text="Space",
-       width=30, heigh=1,
+       width=30, height=1,
        bg="black", fg="white",
        activebackground="white", activeforeground="black",
        relief="groove",
